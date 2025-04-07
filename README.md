@@ -1,1 +1,1 @@
-# Here I will list all the projects that are related to Data Analysis & Visualization
+# thsi directory lists all the sql projects and files
