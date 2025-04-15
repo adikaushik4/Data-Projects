@@ -1,0 +1,4 @@
+This folder contains the projects and strategies used to time the market. We will be going over multiple strategies. Stratgies that we have seen before as well using new methods to get the buy or sell signals.
+These projects file will be using Python and Jupyter.
+We will be listing all the projects and strategies used.
+Project-1 uses Momentum trading stratgies
